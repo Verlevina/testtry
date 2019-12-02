@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NUnitTestProject4": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Ключ": "Значение"
+      }
+    }
+  }
+}

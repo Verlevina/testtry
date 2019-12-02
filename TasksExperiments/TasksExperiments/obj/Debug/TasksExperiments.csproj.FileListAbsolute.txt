@@ -1,0 +1,7 @@
+c:\users\disa1\source\repos\TasksExperiments\TasksExperiments\obj\Debug\TasksExperiments.csprojResolveAssemblyReference.cache
+c:\users\disa1\source\repos\TasksExperiments\TasksExperiments\obj\Debug\TasksExperiments.csproj.CoreCompileInputs.cache
+c:\users\disa1\source\repos\TasksExperiments\TasksExperiments\bin\Debug\TasksExperiments.exe.config
+c:\users\disa1\source\repos\TasksExperiments\TasksExperiments\bin\Debug\TasksExperiments.exe
+c:\users\disa1\source\repos\TasksExperiments\TasksExperiments\bin\Debug\TasksExperiments.pdb
+c:\users\disa1\source\repos\TasksExperiments\TasksExperiments\obj\Debug\TasksExperiments.exe
+c:\users\disa1\source\repos\TasksExperiments\TasksExperiments\obj\Debug\TasksExperiments.pdb

@@ -1,0 +1,14 @@
+C:\Users\disa1\source\repos\NUnitTestProject3\NUnitTestProject3\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\disa1\source\repos\NUnitTestProject3\NUnitTestProject3\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\disa1\source\repos\NUnitTestProject3\NUnitTestProject3\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\disa1\source\repos\NUnitTestProject3\NUnitTestProject3\bin\Debug\netcoreapp2.2\NUnitTestProject3.deps.json
+C:\Users\disa1\source\repos\NUnitTestProject3\NUnitTestProject3\bin\Debug\netcoreapp2.2\NUnitTestProject3.runtimeconfig.json
+C:\Users\disa1\source\repos\NUnitTestProject3\NUnitTestProject3\bin\Debug\netcoreapp2.2\NUnitTestProject3.runtimeconfig.dev.json
+C:\Users\disa1\source\repos\NUnitTestProject3\NUnitTestProject3\bin\Debug\netcoreapp2.2\NUnitTestProject3.dll
+C:\Users\disa1\source\repos\NUnitTestProject3\NUnitTestProject3\obj\Debug\netcoreapp2.2\NUnitTestProject3.csprojAssemblyReference.cache
+C:\Users\disa1\source\repos\NUnitTestProject3\NUnitTestProject3\obj\Debug\netcoreapp2.2\NUnitTestProject3.csproj.CoreCompileInputs.cache
+C:\Users\disa1\source\repos\NUnitTestProject3\NUnitTestProject3\obj\Debug\netcoreapp2.2\NUnitTestProject3.AssemblyInfoInputs.cache
+C:\Users\disa1\source\repos\NUnitTestProject3\NUnitTestProject3\obj\Debug\netcoreapp2.2\NUnitTestProject3.AssemblyInfo.cs
+C:\Users\disa1\source\repos\NUnitTestProject3\NUnitTestProject3\bin\Debug\netcoreapp2.2\NUnitTestProject3.pdb
+C:\Users\disa1\source\repos\NUnitTestProject3\NUnitTestProject3\obj\Debug\netcoreapp2.2\NUnitTestProject3.dll
+C:\Users\disa1\source\repos\NUnitTestProject3\NUnitTestProject3\obj\Debug\netcoreapp2.2\NUnitTestProject3.pdb
